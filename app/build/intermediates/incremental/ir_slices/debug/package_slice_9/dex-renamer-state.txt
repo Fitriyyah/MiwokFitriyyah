@@ -1,0 +1,4 @@
+#Sun Nov 03 18:54:56 ICT 2019
+base.0=D\:\\Miwok-App-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
